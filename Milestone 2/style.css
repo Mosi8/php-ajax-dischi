@@ -1,9 +1,23 @@
+body {
+    background-color: rgb(43, 53, 65);
+}
+header {
+    height: 60px;
+    padding: 10px 20px;
+    background-color: rgb(54, 64, 74);
+}
+
+.logo {
+    height: 100%;
+    display: inline-block;
+}
+
 .disco {
     background-color: rgb(54, 64, 74);
     color: #fff;
 }
     
-img{
+.copertina{
     width: 100%;
 }
     
@@ -21,6 +35,3 @@ span{
     font-size: 14px;
 }
 
-body {
-    background-color: rgb(43, 53, 65);
-}
